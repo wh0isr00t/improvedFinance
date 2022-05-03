@@ -1,2 +1,3 @@
 # improvedFinance
 Improved Finance dApp and iFi token.
+Improved Finance is a decentralized marketplace designed for the exchange of Non-Fungible Tokens (henceforth referred to as NFTs) representing distinct real world goods, services, reservations, and event admission tokens. Users are incentivized to onbard sellers by way of commission via half of the 1% tx fees earned by the seller on each exchange, which is implemented regardless of referral status to mitigate comission evasion, while the remainder is utilized for trustless buybacks of the iFi token, which is distributed to liquidity providers.
